@@ -5,7 +5,7 @@
 
 [Live demo: https://java-crud-api.herokuapp.com](https://java-crud-api.herokuapp.com/)
 
-###Built with:
-#### Java, Spring Boot, Sprint Initializr, Spring Data JPA, SQL, Thymeleaf, HTML/CSS/JS, and deployed with Heroku.
+### Built with:
+#### Java, Spring Boot, Spring Initializr, Spring Data JPA, SQL, Thymeleaf, HTML/CSS/JS, and deployed with Heroku.
 
 ![example gif](example.gif)
